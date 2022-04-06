@@ -2,7 +2,7 @@
     "name": "projet1/composer-3",
     "autoload": {
         "psr-4": {
-            "Projet1\\Composer3\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
