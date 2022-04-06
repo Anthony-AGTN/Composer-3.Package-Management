@@ -11,5 +11,7 @@
             "email": "anthony.gouton.wcs@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
 }
